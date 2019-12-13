@@ -4,7 +4,8 @@
 </div>
 <br><br>
 <ul>
-  <li *ngFor='let data of signalRService.bradcastedData'>
-    <strong>Label: </strong> {{data.label}} - <strong>Value: </strong> {{data.data[0]}}
+  <li>
+    <strong>Label: </strong> {{signalRService.bradcastedData}} - <strong>Value: </strong>
+    {{signalRService.bradcastedData}}
   </li>
 </ul>

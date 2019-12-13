@@ -31,8 +31,8 @@ export class SignalRService {
 
 
   public broadcastChartData = () => {
-    this.hubConnection.invoke('broadcastchartdata', this.data)
-      .catch(err => console.error(err));
+    this.hubConnection.invoke('broadcastchartdata', "hello");
+    // .catch(err => console.error(err));
   }
 
   public addBroadcastChartDataListener = () => {
