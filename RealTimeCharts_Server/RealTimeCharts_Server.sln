@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeCharts_Server", "RealTimeCharts_Server\RealTimeCharts_Server.csproj", "{91E821F6-B31B-43F4-BB98-34B40FFE5F1C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeServer", "RealTimeServer\RealTimeServer.csproj", "{20DFB500-27C1-4D2E-914C-219F30725DA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{91E821F6-B31B-43F4-BB98-34B40FFE5F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91E821F6-B31B-43F4-BB98-34B40FFE5F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91E821F6-B31B-43F4-BB98-34B40FFE5F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91E821F6-B31B-43F4-BB98-34B40FFE5F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DFB500-27C1-4D2E-914C-219F30725DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DFB500-27C1-4D2E-914C-219F30725DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DFB500-27C1-4D2E-914C-219F30725DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DFB500-27C1-4D2E-914C-219F30725DA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
